@@ -1,7 +1,7 @@
 from argparse import ArgumentParser
 import re
 MODULE_NAME = "stilton: The command line tool that detects code smells for refactoring"
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 class StiltonFileSmeller():
     
